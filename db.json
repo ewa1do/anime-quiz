@@ -1,0 +1,259 @@
+[
+  {
+    "question": "What is Aizen's true purpose in 'Bleach'?",
+    "options": [
+      "Become the Spirit King",
+      "Merge with the Hōgyoku to surpass the limits of shinigami",
+      "Destroy the Soul Society",
+      "Become the strongest Espada"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the 'Evangelion' in 'Neon Genesis Evangelion'?",
+    "options": [
+      "A nuclear weapon",
+      "A mecha piloted by teenagers to fight angels",
+      "An alternate dimension",
+      "A spaceship"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What does 'Zoldyck' mean in 'Hunter x Hunter'?",
+    "options": [
+      "A type of Nen",
+      "A famous family of assassins",
+      "A secret organization",
+      "A clan of wizards"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the goal of the Phantom Troupe in 'Hunter x Hunter'?",
+    "options": [
+      "Become the most powerful mercenary group",
+      "Steal valuable items and control Meteor City",
+      "Defeat the Hunters",
+      "Protect the world from Nen"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the name of the Straw Hats' first ship in 'One Piece'?",
+    "options": [
+      "Thousand Sunny",
+      "Red Force",
+      "Going Merry",
+      "Shank's Galleon"
+    ],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What is the 'Mugen Tsukuyomi' in 'Naruto Shippuden'?",
+    "options": [
+      "A sealing technique",
+      "A genjutsu that traps everyone in an eternal dream",
+      "A reanimation jutsu",
+      "A legendary sword"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "Who is the creator of 'Cowboy Bebop'?",
+    "options": [
+      "Shinichirō Watanabe",
+      "Hideaki Anno",
+      "Yoko Kanno",
+      "Yoshiyuki Tomino"
+    ],
+    "correct_answer": 0,
+    "points": 10
+  },
+  {
+    "question": "What is a 'Gundam' in 'Mobile Suit Gundam'?",
+    "options": [
+      "A spaceship",
+      "A giant robot piloted by humans",
+      "A biological weapon",
+      "A type of magic"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is Madara Uchiha's goal in 'Naruto'?",
+    "options": [
+      "World domination",
+      "Recreate the world through the Infinite Tsukuyomi Project",
+      "Become Hokage",
+      "Destroy the Uchiha clan"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What does 'Hollow' mean in 'Bleach'?",
+    "options": [
+      "A sword technique",
+      "An evil spirit that attacks humans",
+      "A type of zanpakutō",
+      "A Soul Society squad"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is Spike Spiegel's real name in 'Cowboy Bebop'?",
+    "options": [
+      "Spike Vicious",
+      "Vincent Volaju",
+      "Fearless",
+      "Vash the Stampede"
+    ],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What does Kaneki Ken become in 'Tokyo Ghoul'?",
+    "options": ["A vampire", "A demon", "A ghoul", "A shinigami"],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What is the name of the wizard guild in 'Fairy Tail'?",
+    "options": ["Blue Pegasus", "Fairy Tail", "Sabertooth", "Lamia Scale"],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What does 'Meister' mean in 'Soul Eater'?",
+    "options": [
+      "A type of weapon",
+      "An individual who wields a transforming weapon",
+      "A spell",
+      "A demon"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is Lelouch's Geass in 'Code Geass'?",
+    "options": [
+      "Become the king of the world",
+      "Control people's wills",
+      "Use the Excalibur sword",
+      "Teleport through time"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the main ability of the Titans in 'Attack on Titan'?",
+    "options": [
+      "Superhuman strength",
+      "Teleportation",
+      "Mind control",
+      "Element manipulation"
+    ],
+    "correct_answer": 0,
+    "points": 10
+  },
+  {
+    "question": "What is the name of the main protagonist in 'Black Clover'?",
+    "options": ["Yuno", "Luck", "Asta", "Magna"],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "Who is the main villain in 'Death Note'?",
+    "options": ["Ryuk", "Light Yagami", "L", "Near"],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the main weapon used by Ichigo in 'Bleach'?",
+    "options": ["Kunai", "Gun", "Zanpakutō", "Magic wand"],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What is the main goal of Gon in 'Hunter x Hunter'?",
+    "options": [
+      "Find the One Piece",
+      "Become Hokage",
+      "Find his father",
+      "Defeat the Titans"
+    ],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "Who is the main antagonist in 'Naruto Shippuden'?",
+    "options": [
+      "Sasuke Uchiha",
+      "Madara Uchiha",
+      "Itachi Uchiha",
+      "Kakashi Hatake"
+    ],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the main power of Edward Elric in 'Fullmetal Alchemist'?",
+    "options": ["Telepathy", "Alchemy", "Time travel", "Shape-shifting"],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "Who is the leader of the Phantom Troupe in 'Hunter x Hunter'?",
+    "options": ["Kurapika", "Chrollo Lucilfer", "Hisoka", "Gon"],
+    "correct_answer": 1,
+    "points": 10
+  },
+  {
+    "question": "What is the main weapon of Kirito in 'Sword Art Online'?",
+    "options": ["Axe", "Gun", "Dual swords", "Bow and arrow"],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What is the main goal of Natsu in 'Fairy Tail'?",
+    "options": [
+      "Become the Wizard King",
+      "Defeat the Titans",
+      "Find his dragon father",
+      "Collect all Dragon Balls"
+    ],
+    "correct_answer": 2,
+    "points": 10
+  },
+  {
+    "question": "What is the name of the school in 'My Hero Academia'?",
+    "options": [
+      "UA High School",
+      "Shinobi Academy",
+      "Titan Training School",
+      "Alchemist Academy"
+    ],
+    "correct_answer": 0,
+    "points": 10
+  },
+  {
+    "question": "Who is the main villain in 'Attack on Titan'?",
+    "options": [
+      "Eren Yeager",
+      "Levi Ackerman",
+      "Zeke Yeager",
+      "Mikasa Ackerman"
+    ],
+    "correct_answer": 2,
+    "points": 10
+  }
+]
